@@ -1,0 +1,15 @@
+{"version":1,"strings":[
+{"hash":133680869,"name":"tsksstandardfrm.label1.caption","sourcebytes":[87,101,108,100,68,97,116,97,32,78,97,109,101],"value":"WeldData Name"},
+{"hash":90164462,"name":"tsksstandardfrm.labelminimo.caption","sourcebytes":[83,112,101,101,100,13,10,77,105,110,105,109,117,110],"value":"Speed\r\nMinimun"},
+{"hash":87411949,"name":"tsksstandardfrm.labelvelmaxima.caption","sourcebytes":[83,112,101,101,100,13,10,77,97,120,105,109,117,109],"value":"Speed\r\nMaximum"},
+{"hash":22974,"name":"tsksstandardfrm.btgenerar.caption","sourcebytes":[82,117,110],"value":"Run"},
+{"hash":238748430,"name":"tsksstandardfrm.chkadd.hint","sourcebytes":[65,100,100,32,110,101,119,32,100,97,116,97,32,116,111,32,116,104,101,32,101,120,105,115,116,105,110,103,32,111,110,101,115,46],"value":"Add new data to the existing ones."},
+{"hash":18340,"name":"tsksstandardfrm.chkadd.caption","sourcebytes":[65,100,100],"value":"Add"},
+{"hash":160355806,"name":"tsksstandardfrm.chkusetask.hint","sourcebytes":[65,100,100,32,116,104,101,32,84,97,115,107,32,109,111,100,105,102,105,101,114,32,116,111,32,116,104,101,32,100,101,99,108,97,114,97,116,105,111,110,46],"value":"Add the Task modifier to the declaration."},
+{"hash":17491118,"name":"tsksstandardfrm.chkusetask.caption","sourcebytes":[65,100,100,32,84,97,115,107,32,116,111,32,100,101,102,105,110,105,116,105,111,110],"value":"Add Task to definition"},
+{"hash":127162148,"name":"tsksstandardfrm.buttoncopiar.hint","sourcebytes":[67,111,112,121,32,116,111,32,99,108,105,112,98,111,97,114,100],"value":"Copy to clipboard"},
+{"hash":304761,"name":"tsksstandardfrm.buttoncopiar.caption","sourcebytes":[67,111,112,121],"value":"Copy"},
+{"hash":5150400,"name":"tsksstandardfrm.labelgroup.caption","sourcebytes":[71,114,111,117,112],"value":"Group"},
+{"hash":127264813,"name":"tsksstandardfrm.labelprogram.caption","sourcebytes":[80,114,111,103,114,97,109],"value":"Program"},
+{"hash":90741071,"name":"tsksstandardfrm.labelpart.caption","sourcebytes":[80,97,114,116,78,111],"value":"PartNo"}
+]}

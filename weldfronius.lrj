@@ -1,0 +1,12 @@
+{"version":1,"strings":[
+{"hash":46231313,"name":"tfroniusfr.label1.caption","sourcebytes":[80,114,101,102,105,106,111,32,83,111,108,100,97,100,117,114,97],"value":"Prefijo Soldadura"},
+{"hash":90164462,"name":"tfroniusfr.minimo.caption","sourcebytes":[83,112,101,101,100,13,10,77,105,110,105,109,117,110],"value":"Speed\r\nMinimun"},
+{"hash":87411949,"name":"tfroniusfr.label3.caption","sourcebytes":[83,112,101,101,100,13,10,77,97,120,105,109,117,109],"value":"Speed\r\nMaximum"},
+{"hash":22974,"name":"tfroniusfr.btgenerar.caption","sourcebytes":[82,117,110],"value":"Run"},
+{"hash":238748430,"name":"tfroniusfr.chkadd.hint","sourcebytes":[65,100,100,32,110,101,119,32,100,97,116,97,32,116,111,32,116,104,101,32,101,120,105,115,116,105,110,103,32,111,110,101,115,46],"value":"Add new data to the existing ones."},
+{"hash":18340,"name":"tfroniusfr.chkadd.caption","sourcebytes":[65,100,100],"value":"Add"},
+{"hash":160355806,"name":"tfroniusfr.chkusetask.hint","sourcebytes":[65,100,100,32,116,104,101,32,84,97,115,107,32,109,111,100,105,102,105,101,114,32,116,111,32,116,104,101,32,100,101,99,108,97,114,97,116,105,111,110,46],"value":"Add the Task modifier to the declaration."},
+{"hash":17491118,"name":"tfroniusfr.chkusetask.caption","sourcebytes":[65,100,100,32,84,97,115,107,32,116,111,32,100,101,102,105,110,105,116,105,111,110],"value":"Add Task to definition"},
+{"hash":127162148,"name":"tfroniusfr.buttoncopiar.hint","sourcebytes":[67,111,112,121,32,116,111,32,99,108,105,112,98,111,97,114,100],"value":"Copy to clipboard"},
+{"hash":304761,"name":"tfroniusfr.buttoncopiar.caption","sourcebytes":[67,111,112,121],"value":"Copy"}
+]}
