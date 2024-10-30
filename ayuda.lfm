@@ -1,0 +1,41 @@
+object AyudaFrm: TAyudaFrm
+  Left = 420
+  Height = 240
+  Top = 250
+  Width = 320
+  BorderStyle = bsDialog
+  Caption = 'Ayuda'
+  ClientHeight = 240
+  ClientWidth = 320
+  Position = poMainFormCenter
+  object ButtonPanel1: TButtonPanel
+    Left = 6
+    Height = 34
+    Top = 200
+    Width = 308
+    OKButton.Name = 'OKButton'
+    OKButton.DefaultCaption = True
+    HelpButton.Name = 'HelpButton'
+    HelpButton.DefaultCaption = True
+    CloseButton.Name = 'CloseButton'
+    CloseButton.DefaultCaption = True
+    CancelButton.Name = 'CancelButton'
+    CancelButton.DefaultCaption = True
+    TabOrder = 0
+    ShowButtons = [pbClose]
+  end
+  object Memo1: TMemo
+    Left = 0
+    Height = 194
+    Top = 0
+    Width = 320
+    Align = alClient
+    Lines.Strings = (
+      'Este programa permite crear series de welddata (programas de soldadura para abb)'
+      'Coloca el nombre el la casilla del prefijo de soldadura.'
+      'Indica  en máximo y miníno la velocidad'
+      'El programa generará los datos welddata correspondiente entre las velocidades indicadas.'
+    )
+    TabOrder = 1
+  end
+end

@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: tfroniusfr.btgenerar.caption
+msgctxt "tfroniusfr.btgenerar.caption"
+msgid "Run"
+msgstr "Ejecutar"
+
+#: tfroniusfr.buttoncopiar.caption
+msgctxt "tfroniusfr.buttoncopiar.caption"
+msgid "Copy"
+msgstr "Copiar"
+
+#: tfroniusfr.buttoncopiar.hint
+msgctxt "tfroniusfr.buttoncopiar.hint"
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapeles"
+
+#: tfroniusfr.chkadd.caption
+msgctxt "tfroniusfr.chkadd.caption"
+msgid "Add"
+msgstr "Añadir"
+
+#: tfroniusfr.chkadd.hint
+msgctxt "tfroniusfr.chkadd.hint"
+msgid "Add new data to the existing ones."
+msgstr "Añadir nuevos datos a los existentes"
+
+#: tfroniusfr.chkusetask.caption
+msgctxt "tfroniusfr.chkusetask.caption"
+msgid "Add Task to definition"
+msgstr "Añadir TASK a la definición"
+
+#: tfroniusfr.chkusetask.hint
+msgctxt "tfroniusfr.chkusetask.hint"
+msgid "Add the Task modifier to the declaration."
+msgstr "Añadir el modificador TASK a la definición"
+
+#: tfroniusfr.label1.caption
+msgid "Prefijo Soldadura"
+msgstr "WeldData name"
+
+#: tfroniusfr.label3.caption
+msgctxt "tfroniusfr.label3.caption"
+msgid ""
+"Speed\n"
+"Maximum"
+msgstr ""
+"Velocidad\n"
+"Máxima"
+
+#: tfroniusfr.minimo.caption
+msgctxt "tfroniusfr.minimo.caption"
+msgid ""
+"Speed\n"
+"Minimun"
+msgstr ""
+"Velocidad\n"
+"mínima"
+
+#: tmainfrm.caption
+msgid "Weld Data Generator  v1.3"
+msgstr ""
+
+#: tmainfrm.menuitem1.caption
+msgid "File"
+msgstr "Archivo"
+
+#: tmainfrm.menuitem2.caption
+msgid "Quit"
+msgstr "Salir"
+
+#: tmainfrm.menuitem3.caption
+msgid "PowerSource"
+msgstr "Equipo de soldadura"
+
+#: tmainfrm.menuitem5.caption
+msgid "Help"
+msgstr "Ayuda"
+
+#: tmainfrm.menuitem6.caption
+msgid "Open Help"
+msgstr "Abrir ayuda"
+
+#: tmainfrm.menuitem7.caption
+msgid "About"
+msgstr "Acerca de"
+
+#: tmainfrm.mnexportaramodulo.caption
+msgid "Export"
+msgstr "Exportar"
+
+#: tmainfrm.mnfronius.caption
+msgid "Fronius"
+msgstr ""
+
+#: tmainfrm.mnsksstandard.caption
+msgid "SksStandard"
+msgstr ""
+
+#: tsksstandardfrm.btgenerar.caption
+msgctxt "tsksstandardfrm.btgenerar.caption"
+msgid "Run"
+msgstr "Ejecutar"
+
+#: tsksstandardfrm.buttoncopiar.caption
+msgctxt "tsksstandardfrm.buttoncopiar.caption"
+msgid "Copy"
+msgstr "Copiar"
+
+#: tsksstandardfrm.buttoncopiar.hint
+msgctxt "tsksstandardfrm.buttoncopiar.hint"
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapeles"
+
+#: tsksstandardfrm.chkadd.caption
+msgctxt "tsksstandardfrm.chkadd.caption"
+msgid "Add"
+msgstr "Añadir"
+
+#: tsksstandardfrm.chkadd.hint
+msgctxt "tsksstandardfrm.chkadd.hint"
+msgid "Add new data to the existing ones."
+msgstr "Añadir nuevos datos a los existentes"
+
+#: tsksstandardfrm.chkusetask.caption
+msgctxt "tsksstandardfrm.chkusetask.caption"
+msgid "Add Task to definition"
+msgstr "Añadir TASK a la definición"
+
+#: tsksstandardfrm.chkusetask.hint
+msgctxt "tsksstandardfrm.chkusetask.hint"
+msgid "Add the Task modifier to the declaration."
+msgstr "Añadir el modificador TASK a la definición"
+
+#: tsksstandardfrm.label1.caption
+msgid "WeldData Name"
+msgstr ""
+
+#: tsksstandardfrm.labelgroup.caption
+msgid "Group"
+msgstr ""
+
+#: tsksstandardfrm.labelminimo.caption
+msgctxt "tsksstandardfrm.labelminimo.caption"
+msgid ""
+"Speed\n"
+"Minimun"
+msgstr ""
+"Velocidad\n"
+"mínima"
+
+#: tsksstandardfrm.labelpart.caption
+msgid "PartNo"
+msgstr ""
+
+#: tsksstandardfrm.labelprogram.caption
+msgid "Program"
+msgstr ""
+
+#: tsksstandardfrm.labelvelmaxima.caption
+msgctxt "tsksstandardfrm.labelvelmaxima.caption"
+msgid ""
+"Speed\n"
+"Maximum"
+msgstr ""
+"Velocidad\n"
+"Máxima"

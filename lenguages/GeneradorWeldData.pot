@@ -1,0 +1,176 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfroniusfr.btgenerar.caption
+msgctxt "tfroniusfr.btgenerar.caption"
+msgid "Run"
+msgstr ""
+
+#: tfroniusfr.buttoncopiar.caption
+msgctxt "tfroniusfr.buttoncopiar.caption"
+msgid "Copy"
+msgstr ""
+
+#: tfroniusfr.buttoncopiar.hint
+msgctxt "tfroniusfr.buttoncopiar.hint"
+msgid "Copy to clipboard"
+msgstr ""
+
+#: tfroniusfr.chkadd.caption
+msgctxt "tfroniusfr.chkadd.caption"
+msgid "Add"
+msgstr ""
+
+#: tfroniusfr.chkadd.hint
+msgctxt "tfroniusfr.chkadd.hint"
+msgid "Add new data to the existing ones."
+msgstr ""
+
+#: tfroniusfr.chkusetask.caption
+msgctxt "tfroniusfr.chkusetask.caption"
+msgid "Add Task to definition"
+msgstr ""
+
+#: tfroniusfr.chkusetask.hint
+msgctxt "tfroniusfr.chkusetask.hint"
+msgid "Add the Task modifier to the declaration."
+msgstr ""
+
+#: tfroniusfr.label1.caption
+msgid "Prefijo Soldadura"
+msgstr ""
+
+#: tfroniusfr.label3.caption
+msgctxt "tfroniusfr.label3.caption"
+msgid ""
+"Speed\n"
+"Maximum"
+msgstr ""
+
+#: tfroniusfr.minimo.caption
+msgctxt "tfroniusfr.minimo.caption"
+msgid ""
+"Speed\n"
+"Minimun"
+msgstr ""
+
+#: tmainfrm.caption
+msgid "Weld Data Generator  v1.4"
+msgstr ""
+
+#: tmainfrm.menuitem3.caption
+msgid "PowerSource"
+msgstr ""
+
+#: tmainfrm.menuitem4.caption
+msgid "Export to ..."
+msgstr ""
+
+#: tmainfrm.mnabout.caption
+msgctxt "tmainfrm.mnabout.caption"
+msgid "About"
+msgstr ""
+
+#: tmainfrm.mnexportotonewmodule.caption
+msgctxt "tmainfrm.mnexportotonewmodule.caption"
+msgid "Export to new module"
+msgstr ""
+
+#: tmainfrm.mnexporttoexistingmodule.caption
+msgctxt "tmainfrm.mnexporttoexistingmodule.caption"
+msgid "Existing module"
+msgstr ""
+
+#: tmainfrm.mnfilemenu.caption
+msgctxt "tmainfrm.mnfilemenu.caption"
+msgid "File"
+msgstr ""
+
+#: tmainfrm.mnfronius.caption
+msgid "Fronius"
+msgstr ""
+
+#: tmainfrm.mnhelp.caption
+msgctxt "tmainfrm.mnhelp.caption"
+msgid "Help"
+msgstr ""
+
+#: tmainfrm.mnopenhelp.caption
+msgctxt "tmainfrm.mnopenhelp.caption"
+msgid "Open Help"
+msgstr ""
+
+#: tmainfrm.mnquit.caption
+msgctxt "tmainfrm.mnquit.caption"
+msgid "Quit"
+msgstr ""
+
+#: tmainfrm.mnsksstandard.caption
+msgid "SksStandard"
+msgstr ""
+
+#: tsksstandardfrm.btgenerar.caption
+msgctxt "tsksstandardfrm.btgenerar.caption"
+msgid "Run"
+msgstr ""
+
+#: tsksstandardfrm.buttoncopiar.caption
+msgctxt "tsksstandardfrm.buttoncopiar.caption"
+msgid "Copy"
+msgstr ""
+
+#: tsksstandardfrm.buttoncopiar.hint
+msgctxt "tsksstandardfrm.buttoncopiar.hint"
+msgid "Copy to clipboard"
+msgstr ""
+
+#: tsksstandardfrm.chkadd.caption
+msgctxt "tsksstandardfrm.chkadd.caption"
+msgid "Add"
+msgstr ""
+
+#: tsksstandardfrm.chkadd.hint
+msgctxt "tsksstandardfrm.chkadd.hint"
+msgid "Add new data to the existing ones."
+msgstr ""
+
+#: tsksstandardfrm.chkusetask.caption
+msgctxt "tsksstandardfrm.chkusetask.caption"
+msgid "Add Task to definition"
+msgstr ""
+
+#: tsksstandardfrm.chkusetask.hint
+msgctxt "tsksstandardfrm.chkusetask.hint"
+msgid "Add the Task modifier to the declaration."
+msgstr ""
+
+#: tsksstandardfrm.label1.caption
+msgid "WeldData Name"
+msgstr ""
+
+#: tsksstandardfrm.labelgroup.caption
+msgid "Group"
+msgstr ""
+
+#: tsksstandardfrm.labelminimo.caption
+msgctxt "tsksstandardfrm.labelminimo.caption"
+msgid ""
+"Speed\n"
+"Minimun"
+msgstr ""
+
+#: tsksstandardfrm.labelpart.caption
+msgid "PartNo"
+msgstr ""
+
+#: tsksstandardfrm.labelprogram.caption
+msgid "Program"
+msgstr ""
+
+#: tsksstandardfrm.labelvelmaxima.caption
+msgctxt "tsksstandardfrm.labelvelmaxima.caption"
+msgid ""
+"Speed\n"
+"Maximum"
+msgstr ""
+

@@ -1,0 +1,122 @@
+object FroniusFr: TFroniusFr
+  Left = 0
+  Height = 85
+  Top = 0
+  Width = 679
+  ClientHeight = 85
+  ClientWidth = 679
+  ParentFont = False
+  TabOrder = 0
+  DesignLeft = 407
+  DesignTop = 27
+  object Panel1: TPanel
+    Left = 0
+    Height = 80
+    Top = 0
+    Width = 679
+    Align = alTop
+    ClientHeight = 80
+    ClientWidth = 679
+    TabOrder = 0
+    object edPrefijoSoldadura: TEdit
+      Left = 16
+      Height = 23
+      Top = 40
+      Width = 92
+      TabOrder = 0
+      OnChange = edPrefijoSoldaduraChange
+    end
+    object Label1: TLabel
+      Left = 16
+      Height = 15
+      Top = 12
+      Width = 90
+      Caption = 'Prefijo Soldadura'
+      ParentColor = False
+    end
+    object spMinimo: TSpinEdit
+      Left = 168
+      Height = 23
+      Top = 38
+      Width = 65
+      MinValue = 1
+      TabOrder = 1
+      Value = 1
+      OnClick = spMinimoClick
+    end
+    object spMaximo: TSpinEdit
+      Left = 256
+      Height = 23
+      Top = 38
+      Width = 64
+      MinValue = 1
+      TabOrder = 2
+      Value = 1
+      OnClick = spMaximoClick
+      OnEditingDone = spMaximoEditingDone
+    end
+    object Minimo: TLabel
+      Left = 168
+      Height = 30
+      Top = 1
+      Width = 49
+      Caption = 'Speed'#13#10'Minimun'
+      ParentColor = False
+    end
+    object Label3: TLabel
+      Left = 256
+      Height = 30
+      Top = 1
+      Width = 55
+      Caption = 'Speed'#13#10'Maximum'
+      ParentColor = False
+    end
+    object btGenerar: TButton
+      Left = 368
+      Height = 25
+      Top = 12
+      Width = 75
+      Caption = 'Run'
+      Enabled = False
+      TabOrder = 3
+      OnClick = btGenerarClick
+    end
+    object chkAdd: TCheckBox
+      Left = 480
+      Height = 19
+      Hint = 'Add new data to the existing ones.'
+      Top = 38
+      Width = 40
+      Caption = 'Add'
+      ParentShowHint = False
+      ShowHint = True
+      TabOrder = 4
+    end
+    object chkUseTask: TCheckBox
+      Left = 480
+      Height = 19
+      Hint = 'Add the Task modifier to the declaration.'
+      Top = 8
+      Width = 134
+      Caption = 'Add Task to definition'
+      Checked = True
+      ParentShowHint = False
+      ShowHint = True
+      State = cbChecked
+      TabOrder = 5
+    end
+    object ButtonCopiar: TButton
+      Left = 368
+      Height = 25
+      Hint = 'Copy to clipboard'
+      Top = 45
+      Width = 75
+      Caption = 'Copy'
+      Enabled = False
+      ParentShowHint = False
+      ShowHint = True
+      TabOrder = 6
+      OnClick = ButtonCopiarClick
+    end
+  end
+end
