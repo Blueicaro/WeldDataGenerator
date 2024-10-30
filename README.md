@@ -20,3 +20,6 @@ You give a name, the minimun speed and the maximun speed, and you get all weldda
 
 ![alt text](imagenes/main.jpg.png)
 
+![alt text](imagenes/sksimage.png)
+
+
