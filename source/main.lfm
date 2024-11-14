@@ -1,19 +1,20 @@
 object mainFrm: TmainFrm
   Left = 518
-  Height = 511
+  Height = 639
   Top = 268
-  Width = 883
-  Caption = 'Weld Data Generator  v1.4'
-  ClientHeight = 511
-  ClientWidth = 883
+  Width = 1104
+  Caption = 'Weld Data Generator  v1.5'
+  ClientHeight = 639
+  ClientWidth = 1104
+  DesignTimePPI = 120
   Menu = menus
   Position = poDesktopCenter
   OnCreate = FormCreate
   object mnDatos: TMemo
     Left = 0
-    Height = 511
+    Height = 639
     Top = 0
-    Width = 883
+    Width = 1104
     Align = alClient
     ReadOnly = True
     ScrollBars = ssAutoBoth
@@ -21,8 +22,8 @@ object mainFrm: TmainFrm
     OnChange = mnDatosChange
   end
   object menus: TMainMenu
-    Left = 192
-    Top = 184
+    Left = 240
+    Top = 230
     object mnFileMenu: TMenuItem
       Caption = 'File'
       OnClick = mnFileMenuClick
@@ -392,18 +393,18 @@ object mainFrm: TmainFrm
     PoweredBy.About.ComponentName = 'PoweredBy component'
     PoweredBy.About.LicenseType = abModifiedGPL
     PoweredBy.DelayMilliSecs = 3000
-    Left = 84
-    Top = 76
+    Left = 105
+    Top = 95
   end
   object SaveDialog1: TSaveDialog
     Filter = 'Program Module|*.mod|System Module|*.sys|All files|*.*'
     Options = [ofOverwritePrompt, ofEnableSizing, ofViewDetail]
-    Left = 333
-    Top = 129
+    Left = 416
+    Top = 161
   end
   object OpenDialog1: TOpenDialog
     Filter = 'Program Module|*.mod|System Module|*.sys|All files|*.*'
-    Left = 343
-    Top = 274
+    Left = 429
+    Top = 343
   end
 end

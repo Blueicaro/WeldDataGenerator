@@ -36,6 +36,10 @@ msgctxt "tfroniusfr.chkadd.hint"
 msgid "Add new data to the existing ones."
 msgstr "Añadir nuevos datos a los existentes"
 
+#: tfroniusfr.chkremovemode.caption
+msgid "Remove Mode"
+msgstr "Eliminar Mode"
+
 #: tfroniusfr.chkusetask.caption
 msgctxt "tfroniusfr.chkusetask.caption"
 msgid "Add Task to definition"
@@ -48,7 +52,7 @@ msgstr "Añadir el modificador TASK a la definición"
 
 #: tfroniusfr.label1.caption
 msgid "Prefijo Soldadura"
-msgstr "WeldData name"
+msgstr ""
 
 #: tfroniusfr.label3.caption
 msgctxt "tfroniusfr.label3.caption"
@@ -69,40 +73,55 @@ msgstr ""
 "mínima"
 
 #: tmainfrm.caption
-msgid "Weld Data Generator  v1.3"
+msgid "Weld Data Generator  v1.5"
 msgstr ""
-
-#: tmainfrm.menuitem1.caption
-msgid "File"
-msgstr "Archivo"
-
-#: tmainfrm.menuitem2.caption
-msgid "Quit"
-msgstr "Salir"
 
 #: tmainfrm.menuitem3.caption
 msgid "PowerSource"
-msgstr "Equipo de soldadura"
+msgstr "Equipo soldadura"
 
-#: tmainfrm.menuitem5.caption
-msgid "Help"
-msgstr "Ayuda"
+#: tmainfrm.menuitem4.caption
+msgid "Export to ..."
+msgstr "Exportar a..."
 
-#: tmainfrm.menuitem6.caption
-msgid "Open Help"
-msgstr "Abrir ayuda"
-
-#: tmainfrm.menuitem7.caption
+#: tmainfrm.mnabout.caption
+msgctxt "tmainfrm.mnabout.caption"
 msgid "About"
 msgstr "Acerca de"
 
-#: tmainfrm.mnexportaramodulo.caption
-msgid "Export"
-msgstr "Exportar"
+#: tmainfrm.mnexportotonewmodule.caption
+msgctxt "tmainfrm.mnexportotonewmodule.caption"
+msgid "Export to new module"
+msgstr "Exportar a un módulo nuevo"
+
+#: tmainfrm.mnexporttoexistingmodule.caption
+msgctxt "tmainfrm.mnexporttoexistingmodule.caption"
+msgid "Existing module"
+msgstr "A un módulo existente"
+
+#: tmainfrm.mnfilemenu.caption
+msgctxt "tmainfrm.mnfilemenu.caption"
+msgid "File"
+msgstr "Archivo"
 
 #: tmainfrm.mnfronius.caption
 msgid "Fronius"
 msgstr ""
+
+#: tmainfrm.mnhelp.caption
+msgctxt "tmainfrm.mnhelp.caption"
+msgid "Help"
+msgstr "Ayuda"
+
+#: tmainfrm.mnopenhelp.caption
+msgctxt "tmainfrm.mnopenhelp.caption"
+msgid "Open Help"
+msgstr "Abrir ayuda"
+
+#: tmainfrm.mnquit.caption
+msgctxt "tmainfrm.mnquit.caption"
+msgid "Quit"
+msgstr "Salir"
 
 #: tmainfrm.mnsksstandard.caption
 msgid "SksStandard"
@@ -131,25 +150,25 @@ msgstr "Añadir"
 #: tsksstandardfrm.chkadd.hint
 msgctxt "tsksstandardfrm.chkadd.hint"
 msgid "Add new data to the existing ones."
-msgstr "Añadir nuevos datos a los existentes"
+msgstr "Añadir "
 
 #: tsksstandardfrm.chkusetask.caption
 msgctxt "tsksstandardfrm.chkusetask.caption"
 msgid "Add Task to definition"
-msgstr "Añadir TASK a la definición"
+msgstr ""
 
 #: tsksstandardfrm.chkusetask.hint
 msgctxt "tsksstandardfrm.chkusetask.hint"
 msgid "Add the Task modifier to the declaration."
-msgstr "Añadir el modificador TASK a la definición"
+msgstr ""
 
 #: tsksstandardfrm.label1.caption
 msgid "WeldData Name"
-msgstr ""
+msgstr "Nombre WeldData"
 
 #: tsksstandardfrm.labelgroup.caption
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: tsksstandardfrm.labelminimo.caption
 msgctxt "tsksstandardfrm.labelminimo.caption"
@@ -157,7 +176,7 @@ msgid ""
 "Speed\n"
 "Minimun"
 msgstr ""
-"Velocidad\n"
+"Velocidad \n"
 "mínima"
 
 #: tsksstandardfrm.labelpart.caption
@@ -175,4 +194,4 @@ msgid ""
 "Maximum"
 msgstr ""
 "Velocidad\n"
-"Máxima"
+"máxima"

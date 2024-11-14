@@ -33,6 +33,7 @@ type
   TFroniusFr = class(TFrame)
     btGenerar: TButton;
     ButtonCopiar: TButton;
+    chkRemoveMode: TCheckBox;
     chkAdd: TCheckBox;
     chkUseTask: TCheckBox;
     edPrefijoSoldadura: TEdit;
@@ -120,7 +121,14 @@ begin
       programa := programa + c;
     end;
   end;
-  Modo := '2';
+  if chkRemoveMode.Checked = True then
+  begin
+    Modo := '0';
+  end
+  else
+  begin
+    Modo := '2';
+  end;
 
   Cabecera := 'PERS welddata ';
 

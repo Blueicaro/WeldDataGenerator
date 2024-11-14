@@ -26,6 +26,10 @@ msgctxt "tfroniusfr.chkadd.hint"
 msgid "Add new data to the existing ones."
 msgstr ""
 
+#: tfroniusfr.chkremovemode.caption
+msgid "Remove Mode"
+msgstr ""
+
 #: tfroniusfr.chkusetask.caption
 msgctxt "tfroniusfr.chkusetask.caption"
 msgid "Add Task to definition"
@@ -55,7 +59,7 @@ msgid ""
 msgstr ""
 
 #: tmainfrm.caption
-msgid "Weld Data Generator  v1.4"
+msgid "Weld Data Generator  v1.5"
 msgstr ""
 
 #: tmainfrm.menuitem3.caption
